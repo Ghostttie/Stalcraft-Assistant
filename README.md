@@ -1,6 +1,6 @@
 # STALCRAFT Assistant
 
-**STALCRAFT Assistant** is a modern, user-friendly desktop application designed to help players of the game STALCRAFT efficiently manage their in-game inventory, track transactions, and analyze statistics. It features a minimalistic, responsive interface and a robust set of tools to streamline your STALCRAFT experience.
+**STALCRAFT Assistant** is a modern, user-friendly desktop application designed to help players of the game STALCRAFT efficiently manage their in-game inventory, track transactions, and analyze statistics. It features a minimalistic, responsive interface and a robust set of tools to streamline your STALCRAFT experience. Don't forget this project is in it's very early stages so the UI and features may change.
 
 ---
 
