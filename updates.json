@@ -1,0 +1,11 @@
+{
+  "version": "0.8.3",
+  "notes": "Update to version 0.8.3",
+  "pub_date": "2024-05-16T16:09:03Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDJBMjExRjNFMDQ2MjdGQjgKUldTNGYySUVQaDhoS2lQbFJRVnpmSFA1YlRBdUcyZ2lJWTIwcVhmWDRrUUkxc0pmbUxkejd1eUsK",
+      "url": "https://github.com/Ghostttie/Stalcraft-Assistant/releases/download/0.8.3/STALCRAFT.Assistant_0.8.3.msi"
+    }
+  }
+} 
